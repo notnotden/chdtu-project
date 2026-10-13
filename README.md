@@ -1,2 +1,2 @@
 # chdtu-project
-Deployment branch for Jira integration.
+Deployment branch for Jira integration
